@@ -12,7 +12,7 @@ Example;
 
 Please enter integer between 1 and 100: 10
 Please select even or odd: even
-Output -
+Output:
 0
 2
 4
